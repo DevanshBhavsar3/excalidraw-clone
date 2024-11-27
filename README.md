@@ -1,6 +1,11 @@
-# Excalidraw Clone
-
 ![Screenshot 2024-11-27 160258](https://github.com/user-attachments/assets/3a5b55ba-f131-4b02-8d90-49c46ab61f6d)
+
+## Technologies:
+- ```Vite```
+- ```React```
+- ```TypeScript```
+- ```RoughJS```
+- ```Tailwind CSS```
 
 ## How to run: 
 - Clone this Repository using git command-line on your system.
